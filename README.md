@@ -15,6 +15,15 @@ Built with **React + Vite**, this app lets you create, edit, delete, and organiz
   
 ---
 
+## Approach : 
+- Built using **React**  
+- Implemented **task creation, editing, deletion** with categories and priorities  
+- Used **React hooks** (`useState`, `useEffect`) for state management  
+- Added **Local Storage support** to persist tasks after page reload     
+- Followed a **modular approach** so new features can be easily added later  
+
+---
+
 ## Setup Instructions
 
 ### 1. Clone the repository
