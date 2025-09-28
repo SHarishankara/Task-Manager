@@ -21,14 +21,17 @@ Built with **React + Vite**, this app lets you create, edit, delete, and organiz
 ```bash
 git clone https://github.com/SHarishankara/Task-Manager.git
 cd task
+```
 
 ## Install dependencies:
 ```bash
 npm install
+```
 
 ## Run the development server:
 ```bash
 npm run dev
+```
 
 
 <img width="1919" height="1016" alt="Screenshot 2025-09-28 003646" src="https://github.com/user-attachments/assets/933fbd19-4df9-4074-b8f0-5e302396fcbf" />
