@@ -29,7 +29,7 @@ Built with **React + Vite**, this app lets you create, edit, delete, and organiz
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/SHarishankara/Task-Manager.git
-cd task
+cd Task-Manager
 ```
 
 ## Install dependencies:
